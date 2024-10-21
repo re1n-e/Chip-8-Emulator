@@ -1,4 +1,3 @@
-// use crate::config;
 use crate::memory::Chip8Memory;
 use crate::registers::Chip8Regsiters;
 use crate::stack::Chip8Stack;
