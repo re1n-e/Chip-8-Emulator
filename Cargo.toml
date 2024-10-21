@@ -1,0 +1,13 @@
+[package]
+name = "chip-8"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "chip8"
+path = "src/lib.rs"
+
+[dependencies]
+sdl2 = "0.35"
+rodio = "0.14"
+rand = "0.8"
